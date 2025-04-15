@@ -1,3 +1,6 @@
+
+
+
 # Car Bazar Application
 
 Introducing Car-Bazar, a dynamic TypeScript web application poised to transform car management and discovery. Our innovative project offers users the ability to effortlessly execute CRUD (Create, Read, Update, Delete) operations on cars, streamlining the entire process. Additionally, Car-Bazar goes beyond conventional platforms by delivering personalized car recommendations tailored to individual user preferences. Experience the future of car management with Car-Bazar, where efficiency meets personalization for an unparalleled user experience.
@@ -66,3 +69,6 @@ This next step shows how to mint icp tokens from the locally deployed Ledger can
 
 	# N/B: This mints 5000 ICP tokens from the locally deployed ledger to the address.
     ```
+
+
+    logo![USDx-black](https://github.com/user-attachments/assets/43aaefb7-59ce-4f2d-aa2c-ba846afe489f)
