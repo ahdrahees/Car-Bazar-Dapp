@@ -70,6 +70,6 @@ This next step shows how to mint icp tokens from the locally deployed Ledger can
 	# N/B: This mints 5000 ICP tokens from the locally deployed ledger to the address.
     ```
 
-<img src="https://github.com/user-attachments/assets/43aaefb7-59ce-4f2d-aa2c-ba846afe489f" alt="USDx-black" width="100" height="100">
+<img src="https://www.flaticon.com/free-icon/example_10278187" alt="USDx-black" width="100" height="100">
 
-logo![USDx-black](https://github.com/user-attachments/assets/43aaefb7-59ce-4f2d-aa2c-ba846afe489f)
+logo![USDx-black](https://www.flaticon.com/free-icon/example_10278187)
