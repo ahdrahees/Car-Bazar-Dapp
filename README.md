@@ -73,3 +73,7 @@ This next step shows how to mint icp tokens from the locally deployed Ledger can
 <img src="https://cdn-icons-png.flaticon.com/512/10278/10278187.png" alt="USDx-black" width="100" height="100">
 
 logo![USDx-black](https://cdn-icons-png.flaticon.com/512/10278/10278187.png)
+
+<img src="https://cdn-icons-png.flaticon.com/512/10278/10278187.png" alt="example image" width="100" height="100">
+
+logo![Example-image](https://cdn-icons-png.flaticon.com/512/10278/10278187.png)
